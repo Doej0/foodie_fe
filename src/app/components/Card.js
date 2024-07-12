@@ -64,10 +64,12 @@ const Card = ({ title, description, imageUrl }) => (
 );
 
 const CardGrid = () => (
-  <div className="container mx-auto px-4 grid gap-y-[60px] gap-x-[60px] grid-cols-[repeat(auto-fill,minmax(384px,1fr))]">
-    {cardData.map(card => (
-      <Card key={card.id} title={card.title} description={card.description} imageUrl={card.imageUrl} />
-    ))}
+  <div className="flex justify-center">
+    <div className="container mx-auto px-4 grid gap-y-[60px] gap-x-[60px] grid-cols-[repeat(auto-fill,minmax(384px,1fr))]">
+      {cardData.map(card => (
+        <Card key={card.id} title={card.title} description={card.description} imageUrl={card.imageUrl} />
+      ))}
+    </div>
   </div>
 );
 
