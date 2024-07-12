@@ -3,26 +3,36 @@ import React from 'react';
 const cardData = [
   {
     id: 1,
-    title: 'Noteworthy technology acquisitions 2021',
-    description: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
+    title: 'Cupcake carrot cake wafer fruitcake lollipop shortbread',
+    description: 'Sweet roll tiramisu biscuit apple pie carrot cake fruitcake I love croissant. I love ice cream cupcake sugar plum dragée ',
     imageUrl: '/docs/images/blog/image-1.jpg',
   },
   {
     id: 2,
-    title: 'Noteworthy technology acquisitions 2021',
-    description: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
+    title: 'Dragée gingerbread pastry gummies',
+    description: ' I love tootsie roll chocolate cake tart. Muffin macaroon sugar plum jelly-o',
     imageUrl: '/docs/images/blog/image-1.jpg',
   },
   {
     id: 3,
-    title: 'Noteworthy technology acquisitions 2021',
-    description: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
+    title: 'Soufflé cake tootsie roll',
+    description: 'I love lemon drops chocolate bar. Brownie marzipan sweet topping I love candy canes cotton candy.',
     imageUrl: '/docs/images/blog/image-1.jpg',
   },
   {
     id: 4,
-    title: 'Noteworthy technology acquisitions 2021',
-    description: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
+    title: 'Cupcake ipsum dolo',
+    description: 'Cookie macaroon pastry danish bear claw cupcake. Lollipop candy canes pudding',
+    imageUrl: '/docs/images/blog/image-1.jpg',
+  },   {
+    id: 5,
+    title: 'Danish pudding I love dessert marzipan',
+    description: 'Tiramisu croissant chocolate cake brownie liquorice chocolate cake cheesecake muffin',
+    imageUrl: '/docs/images/blog/image-1.jpg',
+  },  {
+    id: 6,
+    title: 'Soufflé bear claw',
+    description: 'I love dessert dessert macaroon bonbon muffin. Pastry jelly beans',
     imageUrl: '/docs/images/blog/image-1.jpg',
   }
   // Add more card data here
